@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Eric</h1>
-<h3 align="center">Desarrollador independiente construyendo productos de principio a fin</h3>
+<h3 align="center">Desarrollador independiente construyendo productos de gran impacto</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -10,7 +10,7 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/aboutdotme/00405D" width="22" height="22"/> Sobre mí
+### Sobre mí
 
 Soy un desarrollador full-stack enfocado en llevar productos desde la idea hasta producción — incluyendo publicación en tiendas de apps, pagos y todo lo que hay en el medio. Actualmente construyo **Maneja** y **Vuela**, apps de preparación para exámenes de licencias en Chile.
 
