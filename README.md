@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Ricky</h1>
+<h1 align="center">¡Hola! Soy Eric</h1>
 <h3 align="center">Desarrollador independiente construyendo productos de principio a fin</h3>
 
 <p align="center">
