@@ -68,4 +68,5 @@ I'm a full-stack developer focused on taking products from idea to production â€
 ## Contact
 
 [<img src="https://github.githubassets.com/favicons/favicon.svg" width="28" height="28" alt="GitHub">](https://github.com/erikurt9)
+
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="28" height="28" alt="LinkedIn">](https://www.linkedin.com/in/erickurt-gallegos/)
