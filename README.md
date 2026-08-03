@@ -15,7 +15,7 @@ I'm a full-stack developer focused on taking products from idea to production â€
 
 - Building **Maneja**, a driving license exam-prep app, available on Google Play
 - Building **Vuela**, a practice simulator for the RPAS (drone) operator license exam
-- Active open source contributor, mainly on **DevTasks**
+- Active open source contributor on tools and cloud deployment platforms
 - Interested in code quality, component architecture, and developer tooling
 - You can reach out in Spanish or English
 
@@ -47,9 +47,14 @@ I'm a full-stack developer focused on taking products from idea to production â€
 - URL slug generator
 - XML validator
 
-**omegaUp** â€” competitive programming platform
+**omegaUp** ([omegaup/omegaup](https://github.com/omegaup/omegaup)) â€” competitive programming platform
 
 - Fixed backend bug in PHP (issue #9982): edit button incorrectly visible on other users' profiles
+
+**Koyracloud** ([hikmahtech/koyracloud](https://github.com/hikmahtech/koyracloud)) â€” cloud deployment orchestrator
+
+- Added static site manifest configuration (PR #56) supporting automated deployments for major frontend frameworks (Vite, Astro, Hugo, React SPA)
+- Validated control-plane test suites locally, addressing pre-existing Windows path separator bugs
 
 ---
 
@@ -68,5 +73,3 @@ I'm a full-stack developer focused on taking products from idea to production â€
 ## Contact
 
 [<img src="https://github.githubassets.com/favicons/favicon.svg" width="28" height="28" alt="GitHub">](https://github.com/erikurt9) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="28" height="28" alt="LinkedIn">](https://www.linkedin.com/in/erickurt-gallegos/)
-
-
